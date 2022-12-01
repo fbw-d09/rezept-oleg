@@ -1,4 +1,4 @@
-#Klassisches Spritzgebäck - das einfache Grundrezept
+# Klassisches Spritzgebäck - das einfache Grundrezept
 ***
 
 
@@ -12,7 +12,7 @@ Zutaten für 1 Portion
 - 1 m.-große	Ei(er)
 - 300 g	Butter, kalt, in Stücke geschnitten
 
-##Zubereitung
+## Zubereitung
 ***
 Alle Zutaten für den Teig (ganz normale zimmerwarme Butter, keine streichzarte und keine Margarine, eignet sich am besten für diesen Teig). in einer Schüssel mit einem elektrischen Mixer zusammen mixen.
 
@@ -27,7 +27,7 @@ Wichtiger Hinweis zum Ausrollen:
 Nie den ganzen Teig auf einmal ausrollen, sondern immer nur einen Teil und den Rest noch im Kühlschrank lassen. Sonst erwärmt er sich und wird klebrig.
 Beim Plätzchen machen mischt man beim Teig Ausrollen immer etwas Mehl dazu (auf den Teig streuen, den man gerade verarbeiten möchte), dadurch kann man ihn besser rollen und nachher die Formen ausstechen.
 
-###Nährwerte pro Portion
+### Nährwerte pro Portion
 | kcal | Eiweiß| Wert |
 |------|-------|------|
 | 4377   | 53,26 g | 456,44 g
@@ -52,7 +52,7 @@ Beim Plätzchen machen mischt man beim Teig Ausrollen immer etwas Mehl dazu (auf
 
 „Georgien ist berühmt für seine süßen Granatäpfel! Und für seinSchaschlik! Diese sehr Gesunden Früchte eignen sich hervorragend zum marinieren von Fleisch. Ein Geschmack der unverwechselbar ist und Dir und Deinen Gästen lust auf mehr macht!"
 
-#Die Zubereitung:
+# Die Zubereitung:
 *So kann man die Original Schaschlik vorberiten*
 |          |           |
 |----------|-----------|
