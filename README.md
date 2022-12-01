@@ -1,7 +1,7 @@
 #Klassisches Spritzgebäck - das einfache Grundrezept
 ***
 
-sefefve
+
 
 Zutaten für 1 Portion 
 
